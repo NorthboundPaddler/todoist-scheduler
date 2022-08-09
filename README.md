@@ -1,7 +1,7 @@
 # ✅Todoist-Scheduler🕝
 A simple, fast, no-frills web interface to easily drag and drop a filtered list of tasks onto the day you want to do them.  
 
-I'm a user of Carl Pullein's ["Time Sector System"](https://youtu.be/XRl3zkWAKvU) and the weekly review/scheduling of my upcoming tasks is tedious in the current Todoist interface. It lacks a good overview of each day's workload. This project aim's to help make that weekly review/scheduling as quick and painless as possible.
+I'm a user of Carl Pullein's ["Time Sector System"](https://youtu.be/XRl3zkWAKvU) and the weekly review/scheduling of my upcoming tasks is tedious in the current Todoist interface. It lacks a good overview of each day's workload when you're setting due dates. This project aims to help make that weekly review/scheduling as quick and painless as possible.
 
 ## Goals
 - No explanation needed (simple)
@@ -26,6 +26,7 @@ I'm a user of Carl Pullein's ["Time Sector System"](https://youtu.be/XRl3zkWAKvU
 - [ ] Front-end interactive components (i.e. drag and drop)
 - [ ] Client-side filter/token storage handler
 - [ ] Error handling/feedback 
+- [ ] Look into licensing (GPL, MIT, etc.)
 
 
 ## General thoughts
