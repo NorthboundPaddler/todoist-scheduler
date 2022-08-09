@@ -33,3 +33,4 @@ I'm a user of Carl Pullein's ["Time Sector System"](https://youtu.be/XRl3zkWAKvU
 - Would it be more private to do all logic client-side to negate sending personal data back to a server? This would only be relevant if there was a commercial hoster of this project. 
 - I don't think I want to even add things like task editing or task deletion - just more features that I need to maintain that stray from the core goal (scheduling existing tasks). 
 - Todoist's filter input does not suggest existing labels/projects... so why should this? 
+- Initially, I don't want to worry about mobile at all. This is only going to be for desktop "power users". 
