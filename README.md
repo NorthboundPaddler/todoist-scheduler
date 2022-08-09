@@ -21,11 +21,11 @@ I'm a user of Carl Pullein's ["Time Sector System"](https://youtu.be/XRl3zkWAKvU
 - jQuery for client-side logic
 
 ## Tasks
-- [] Server-side "get tasks by filter", "edit task", "validate filter"
-- [] Front-end interface structure (week view, month view, settings page)
-- [] Front-end interactive components (i.e. drag and drop)
-- [] Client-side filter/token storage handler
-- [] Error handling/feedback 
+- [ ] Server-side "get tasks by filter", "edit task", "validate filter"
+- [ ] Front-end interface structure (week view, month view, settings page)
+- [ ] Front-end interactive components (i.e. drag and drop)
+- [ ] Client-side filter/token storage handler
+- [ ] Error handling/feedback 
 
 
 ## General thoughts
